@@ -1,6 +1,6 @@
-package B139; import User;
+package B139;
 
-public class Books {
+public class Books extends Users {
     private int id;
     private int pageNumber;
     private String title;
@@ -8,7 +8,7 @@ public class Books {
     private String auther;
     private String publishingYear;
     private String genre;
-    private User = renter;
+    private Users = renter;
 
     public Book(){
 
