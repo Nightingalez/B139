@@ -1,6 +1,6 @@
 package B139;
 
-public class Books extends Users {
+public class Book{
     private int id;
     private int pageNumber;
     private String title;

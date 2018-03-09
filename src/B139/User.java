@@ -2,7 +2,7 @@ package B139;
 
 import java.util.Date;
 
-public class Users {
+public class User {
 	
 	private String name;
 	private int memberId;
@@ -11,13 +11,12 @@ public class Users {
 	private Date birthday;
 	private String rank;
 	private Date creationDate;
-	private rentedBooks Book[];
+	private Book[] rentedBooks;
 	
-	public Users() {
+	public User() {
 	}
 	
 	public void borrowBook(Book book) {
-		return new Book();;
 	}
 	
 	public void returnBook() {
