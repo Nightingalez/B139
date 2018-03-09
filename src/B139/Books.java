@@ -8,7 +8,7 @@ public class Books extends Users {
     private String auther;
     private String publishingYear;
     private String genre;
-    private Users = renter;
+    private Users rentedBooks;
 
     public Book(){
 
