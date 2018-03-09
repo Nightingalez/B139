@@ -1,6 +1,5 @@
-package B139;
 
-public class Librarian extends Users{
+public class Librarian extends User{
 	
 	public Librarian() {
 	}

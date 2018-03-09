@@ -1,5 +1,3 @@
-package B139;
-
 public class Library {
 	private String name;
 	private Location address;
