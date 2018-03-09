@@ -7,7 +7,7 @@ public class Location {
 	private String street;
 	private String streetNumber;
 
-	private Location() {
+	public Location() {
 	}
 
 	public String getCountry() {
